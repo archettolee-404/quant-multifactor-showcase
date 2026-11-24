@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "universe": "",
+  "benchmark": "",
+  "benchmarkType": "",
+  "version": "",
+  "initialNav": null,
+  "startDate": "",
+  "endDate": "",
+  "oosStart": "",
+  "rebalance": "",
+  "cost": "",
+  "annualTradingDays": null,
+  "riskFreeRate": null,
+  "excessReturnNote": "",
+  "turnoverNote": ""
+}

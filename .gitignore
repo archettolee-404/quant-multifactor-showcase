@@ -1,0 +1,19 @@
+# 本地未脱敏输入与大体积原始数据（禁止提交公开仓库）
+local_inputs/
+raw_runs/
+*.zip
+*.7z
+*.rar
+*.tgz
+*.parquet
+*.h5
+*.feather
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 临时校验文件
+.tmp/
+*.tmp

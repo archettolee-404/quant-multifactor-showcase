@@ -1,0 +1,4 @@
+period,strategy,annual_return,annual_volatility,sharpe,max_drawdown,excess_return
+all,baseline,,,,,
+all,research,,,,,
+all,benchmark,,,,,

@@ -1,0 +1,27 @@
+{
+  "title": "量化多因子策略研究",
+  "course": "量化交易技术理论与实践",
+  "description": "",
+  "strategyName": "",
+  "role": "",
+  "strategyNote": "",
+  "members": [
+    {"name": "", "studentIdLast4": ""},
+    {"name": "", "studentIdLast4": ""},
+    {"name": "", "studentIdLast4": ""},
+    {"name": "", "studentIdLast4": ""}
+  ],
+  "runs": {"hs300": null, "zz500": null},
+  "figures": [],
+  "simulation": {
+    "url": "",
+    "startDate": "",
+    "captureDate": "",
+    "strategy": "",
+    "holdingsNote": "",
+    "image": "",
+    "imageAlt": "",
+    "log": ""
+  },
+  "codeUrl": ""
+}
